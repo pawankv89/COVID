@@ -1,17 +1,13 @@
-# COVID
+//
+//  ViewController.swift
+//  COVID
+//
+//  Created by Pawan kumar on 02/05/20.
+//  Copyright © 2020 Pawan Kumar. All rights reserved.
+//
 
-## COVID Details With All Status.
 
-Added Some screens here.
-
-![](https://github.com/pawankv89/COVID/blob/master/images/screen_1.png)
-
-
-## Usage
-
-#### Controller
-
-```swift
+//https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest#43e467ac-2cb0-4409-84e8-e18794e47271
 
 import UIKit
 
@@ -178,19 +174,3 @@ extension ViewController {
     }
 }
 
-
-```
-
-## Requirements
-
-### Build
-
-Xcode Version 11.3 (11C29), iOS 13.2.0 SDK
-
-## License
-
-This code is distributed under the terms and conditions of the [MIT license](LICENSE).
-
-## Change-log
-
-A brief summary of each this release can be found in the [CHANGELOG](CHANGELOG.mdown). 
